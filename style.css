@@ -150,6 +150,6 @@ body{
 }
 
 .container__botao :hover{
-    color: var(--cor-hover-botao);
+    background-color: var(--cor-hover-botao);
 }
 
