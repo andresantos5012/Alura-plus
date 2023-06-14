@@ -149,7 +149,7 @@ body{
     margin-bottom: 1em;
 }
 
-.container__botao :hover{
+.container__botao:hover{
     background-color: var(--cor-hover-botao);
 }
 
